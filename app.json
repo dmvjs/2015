@@ -1,0 +1,7 @@
+{
+  "name": "DMVJS 2015",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/dmvjs/2015",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["dmvjs"]
+}
